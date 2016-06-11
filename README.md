@@ -2,8 +2,9 @@
 This is the repository for all PCB Design files. Included in this repository is:
 
 ####BLE Card
-![BLE Card](https://raw.githubusercontent.com/blecube/PCB-Design/master/images/Utlegg%20-%203d%20%E2%80%93%20small.png)
-Fyll inn rasmus
+| Fyll inn rasmus 	|![BLE Card](https://raw.githubusercontent.com/blecube/PCB-Design/master/images/Utlegg%20-%203d%20%E2%80%93%20small.png) |
+
+
 
 
 ####Adapter Card
