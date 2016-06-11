@@ -20,7 +20,7 @@ Reference design - further info at NS infocenter
 * Can be modified to send battery info to either P0.xx and P0.xx, or P0.yy and P0.yy.
 
 
-![BLE Card](https://raw.githubusercontent.com/blecube/PCB-Design/master/images/PCB%20Design%20-%20Adapter%20Card%20-%20Small.jpg)
+![BLE Card](https://raw.githubusercontent.com/blecube/PCB-Design/master/images/PCB%20Design%20-%20Adapter%20Card%20-%20Small.png)
 
 
 ####Schematic
