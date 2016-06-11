@@ -12,7 +12,7 @@ Reference design - further info at NS infocenter
 
 **Disclaimer!** This pcb as it is now is designed for use with leds that should be run with 3V. Resistors are 390 ohm but should be lower if 3v leds ar to utilized. This part of the project was significantly modified in our case.
 
-![BLE Card](https://raw.githubusercontent.com/blecube/PCB-Design/master/images/Utlegg%20-%203d%20%E2%80%93%20small.png)
+![BLE Card](https://raw.githubusercontent.com/blecube/PCB-Design/master/images/PCB%20Design%20-%20BLE%20Card%20-%203D%20-%20small.png)
 
 
 ####Adapter Card
